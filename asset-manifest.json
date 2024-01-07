@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-cablo-app/static/css/main.deaea7e7.css",
+    "main.js": "/contact-cablo-app/static/js/main.63f6a116.js",
+    "static/js/787.9dc26c9e.chunk.js": "/contact-cablo-app/static/js/787.9dc26c9e.chunk.js",
+    "index.html": "/contact-cablo-app/index.html",
+    "main.deaea7e7.css.map": "/contact-cablo-app/static/css/main.deaea7e7.css.map",
+    "main.63f6a116.js.map": "/contact-cablo-app/static/js/main.63f6a116.js.map",
+    "787.9dc26c9e.chunk.js.map": "/contact-cablo-app/static/js/787.9dc26c9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deaea7e7.css",
+    "static/js/main.63f6a116.js"
+  ]
+}
